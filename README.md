@@ -1,3 +1,16 @@
+
+...........   git branching..............
+
+
+
+## changes in feature-readme-instructions
+
+new branch started after 1st line of this document
+then i did a commit to main branch
+
+and then i am doing a local development on this new feature...
+open index.html in browser
+
 #...........   git branching..............
 
 changes on a branch doesn't appear on another branch unless they are merged (feature branches)  merged with main branch
@@ -21,5 +34,6 @@ hit the tab  after typing part of the branch for auto complete first few  or  la
 https://www.pluralsight.com/guides/understanding-and-using-git's-index.lock-file
 
 https://stackoverflow.com/questions/32084684/error-could-not-lock-config-file-filepath-git-config-permission-denied
+
 
 
